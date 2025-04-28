@@ -1,0 +1,1 @@
+This is the code for the coffee heater. The tempsensor.dtbo is how the one wire configuration is set up. configure_pins is used for the temperature sensor, the rest are in the code already. This is running on python 3.11 
