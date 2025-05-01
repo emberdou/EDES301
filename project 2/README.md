@@ -1,1 +1,1 @@
-S
+For this project I designed an Etch-a-sketch PCB. This was the given project as I do not think I could have fit the relay module on my board correctly given the specs. I used a PocketBeagle, USB port, buzzer, button, servo, potentiometer, LED and a display. I was able to get it to work sucesfully given the specifications.   
